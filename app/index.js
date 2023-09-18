@@ -21,7 +21,7 @@ export default function Page() {
             cardTitle="सनातन/हिंदू धर्म (Hinduism)"
             cardImage="../assets/hindu.jpg"
             cardButtonColor="#FFA500"
-            buttonRedirectUrl=""
+            buttonRedirectUrl="/hindugods/mainhindugods"
           />
           <ReligionCard
             cardTitle="बौद्ध धर्म (Budhism)"
